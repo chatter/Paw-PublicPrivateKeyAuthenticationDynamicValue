@@ -1,0 +1,15 @@
+{
+  "name": "mitchell.hatter.gmail.com.PawExtensions.PublicPrivateKeyAuthenticationDynamicValue",
+  "version": "1.0.0",
+  "description": "AWS Signature 2 style HMAC Authorization Header",
+  "main": "PublicPrivateKeyAuthenticationDynamicValue.js",
+  "dependencies": {
+    "crypto-js": "^3.1.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Curtis Hatter",
+  "license": "MIT"
+}
